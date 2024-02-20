@@ -1,1 +1,21 @@
-this is wriiten in E-backend
+Atlas username and password 
+shivasoni8528 and bHqwncwuYvmitvlM or Shiva@8528
+
+
+
+
+
+
+
+npm init
+npm i -g typescript
+tsc --init and change in tsconfig
+npm i express dotenv mongoose
+
+npm i --save-dev @types/express @types/node typescript
+npm i --save-dev nodemon
+write code in app.ts
+write tsc in terminal
+add script  "start":"node dist/app.js"
+npm i validator @types/validator =>to validate email,..etc
+
